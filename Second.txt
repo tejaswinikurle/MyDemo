@@ -15,4 +15,6 @@ public static String displayMyName () {
 }
 
 
+public static String dispgituser(){
+return "my first git";
 }
